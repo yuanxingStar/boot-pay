@@ -1,0 +1,20 @@
+2019.7.3  BEGIN
+version： 1.0.0
+1.boot-pay 环境基于springboot,由spring-io进行管理(version = Cairo-SR7),
+2.数据库设计：
+    2.1 er图设计
+    2.2 core-table
+            video
+            video_order
+            user
+            comment
+            chapter
+            episode
+    2.3 创建实体类
+
+
+  2019.7.4 version 1.0.1
+  1.配置druid数据源
+
+  2019.7.5 version 1.0.2
+  1.配置mybatis
